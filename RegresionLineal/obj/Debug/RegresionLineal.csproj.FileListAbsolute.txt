@@ -1,0 +1,13 @@
+C:\Users\Rodrigo\Documents\Visual Studio 2017\TemasSelectosProgramacion\RegresionLineal\bin\Debug\RegresionLineal.exe.config
+C:\Users\Rodrigo\Documents\Visual Studio 2017\TemasSelectosProgramacion\RegresionLineal\bin\Debug\RegresionLineal.exe
+C:\Users\Rodrigo\Documents\Visual Studio 2017\TemasSelectosProgramacion\RegresionLineal\bin\Debug\RegresionLineal.pdb
+C:\Users\Rodrigo\Documents\Visual Studio 2017\TemasSelectosProgramacion\RegresionLineal\bin\Debug\ConsolaDePrueba.exe
+C:\Users\Rodrigo\Documents\Visual Studio 2017\TemasSelectosProgramacion\RegresionLineal\bin\Debug\ConsolaDePrueba.pdb
+C:\Users\Rodrigo\Documents\Visual Studio 2017\TemasSelectosProgramacion\RegresionLineal\bin\Debug\ConsolaDePrueba.exe.config
+C:\Users\Rodrigo\Documents\Visual Studio 2017\TemasSelectosProgramacion\RegresionLineal\obj\Debug\RegresionLineal.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Documents\Visual Studio 2017\TemasSelectosProgramacion\RegresionLineal\obj\Debug\RegresionLineal.Form1.resources
+C:\Users\Rodrigo\Documents\Visual Studio 2017\TemasSelectosProgramacion\RegresionLineal\obj\Debug\RegresionLineal.Properties.Resources.resources
+C:\Users\Rodrigo\Documents\Visual Studio 2017\TemasSelectosProgramacion\RegresionLineal\obj\Debug\RegresionLineal.csproj.GenerateResource.Cache
+C:\Users\Rodrigo\Documents\Visual Studio 2017\TemasSelectosProgramacion\RegresionLineal\obj\Debug\RegresionLineal.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Documents\Visual Studio 2017\TemasSelectosProgramacion\RegresionLineal\obj\Debug\RegresionLineal.exe
+C:\Users\Rodrigo\Documents\Visual Studio 2017\TemasSelectosProgramacion\RegresionLineal\obj\Debug\RegresionLineal.pdb

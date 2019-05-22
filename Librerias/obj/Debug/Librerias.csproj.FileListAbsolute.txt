@@ -1,0 +1,6 @@
+C:\Users\Rodrigo\Documents\Visual Studio 2017\TemasSelectosProgramacion\Librerias\bin\Debug\Librerias.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2017\TemasSelectosProgramacion\Librerias\bin\Debug\Librerias.pdb
+C:\Users\Rodrigo\Documents\Visual Studio 2017\TemasSelectosProgramacion\Librerias\obj\Debug\Librerias.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Documents\Visual Studio 2017\TemasSelectosProgramacion\Librerias\obj\Debug\Librerias.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Documents\Visual Studio 2017\TemasSelectosProgramacion\Librerias\obj\Debug\Librerias.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2017\TemasSelectosProgramacion\Librerias\obj\Debug\Librerias.pdb

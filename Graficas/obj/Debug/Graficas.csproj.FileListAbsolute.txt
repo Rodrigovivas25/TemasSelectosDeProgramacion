@@ -1,0 +1,13 @@
+C:\Users\Rodrigo\Documents\Visual Studio 2017\TemasSelectosProgramacion\Graficas\bin\Debug\Graficas.exe.config
+C:\Users\Rodrigo\Documents\Visual Studio 2017\TemasSelectosProgramacion\Graficas\bin\Debug\Graficas.exe
+C:\Users\Rodrigo\Documents\Visual Studio 2017\TemasSelectosProgramacion\Graficas\bin\Debug\Graficas.pdb
+C:\Users\Rodrigo\Documents\Visual Studio 2017\TemasSelectosProgramacion\Graficas\bin\Debug\ConsolaDePrueba.exe
+C:\Users\Rodrigo\Documents\Visual Studio 2017\TemasSelectosProgramacion\Graficas\bin\Debug\ConsolaDePrueba.pdb
+C:\Users\Rodrigo\Documents\Visual Studio 2017\TemasSelectosProgramacion\Graficas\bin\Debug\ConsolaDePrueba.exe.config
+C:\Users\Rodrigo\Documents\Visual Studio 2017\TemasSelectosProgramacion\Graficas\obj\Debug\Graficas.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Documents\Visual Studio 2017\TemasSelectosProgramacion\Graficas\obj\Debug\Graficas.Form1.resources
+C:\Users\Rodrigo\Documents\Visual Studio 2017\TemasSelectosProgramacion\Graficas\obj\Debug\Graficas.Properties.Resources.resources
+C:\Users\Rodrigo\Documents\Visual Studio 2017\TemasSelectosProgramacion\Graficas\obj\Debug\Graficas.csproj.GenerateResource.Cache
+C:\Users\Rodrigo\Documents\Visual Studio 2017\TemasSelectosProgramacion\Graficas\obj\Debug\Graficas.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Documents\Visual Studio 2017\TemasSelectosProgramacion\Graficas\obj\Debug\Graficas.exe
+C:\Users\Rodrigo\Documents\Visual Studio 2017\TemasSelectosProgramacion\Graficas\obj\Debug\Graficas.pdb

@@ -1,0 +1,8 @@
+C:\Users\Rodrigo\Documents\Visual Studio 2017\TemasSelectosProgramacion\PruebaEncog\bin\Debug\PruebaEncog.exe.config
+C:\Users\Rodrigo\Documents\Visual Studio 2017\TemasSelectosProgramacion\PruebaEncog\bin\Debug\PruebaEncog.exe
+C:\Users\Rodrigo\Documents\Visual Studio 2017\TemasSelectosProgramacion\PruebaEncog\bin\Debug\PruebaEncog.pdb
+C:\Users\Rodrigo\Documents\Visual Studio 2017\TemasSelectosProgramacion\PruebaEncog\obj\Debug\PruebaEncog.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Documents\Visual Studio 2017\TemasSelectosProgramacion\PruebaEncog\obj\Debug\PruebaEncog.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Documents\Visual Studio 2017\TemasSelectosProgramacion\PruebaEncog\obj\Debug\PruebaEncog.exe
+C:\Users\Rodrigo\Documents\Visual Studio 2017\TemasSelectosProgramacion\PruebaEncog\obj\Debug\PruebaEncog.pdb
+C:\Users\Rodrigo\Documents\Visual Studio 2017\TemasSelectosProgramacion\PruebaEncog\bin\Debug\encog-core-cs.dll

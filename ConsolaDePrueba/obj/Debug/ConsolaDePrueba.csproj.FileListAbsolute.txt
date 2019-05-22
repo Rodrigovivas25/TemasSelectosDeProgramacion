@@ -1,0 +1,8 @@
+C:\Users\Rodrigo\Documents\Visual Studio 2017\TemasSelectosProgramacion\ConsolaDePrueba\bin\Debug\ConsolaDePrueba.exe.config
+C:\Users\Rodrigo\Documents\Visual Studio 2017\TemasSelectosProgramacion\ConsolaDePrueba\bin\Debug\ConsolaDePrueba.exe
+C:\Users\Rodrigo\Documents\Visual Studio 2017\TemasSelectosProgramacion\ConsolaDePrueba\bin\Debug\ConsolaDePrueba.pdb
+C:\Users\Rodrigo\Documents\Visual Studio 2017\TemasSelectosProgramacion\ConsolaDePrueba\obj\Debug\ConsolaDePrueba.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Documents\Visual Studio 2017\TemasSelectosProgramacion\ConsolaDePrueba\obj\Debug\ConsolaDePrueba.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Documents\Visual Studio 2017\TemasSelectosProgramacion\ConsolaDePrueba\obj\Debug\ConsolaDePrueba.exe
+C:\Users\Rodrigo\Documents\Visual Studio 2017\TemasSelectosProgramacion\ConsolaDePrueba\obj\Debug\ConsolaDePrueba.pdb
+C:\Users\Rodrigo\Documents\Visual Studio 2017\TemasSelectosProgramacion\ConsolaDePrueba\bin\Debug\encog-core-cs.dll
